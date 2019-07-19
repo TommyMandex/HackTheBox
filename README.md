@@ -3,7 +3,7 @@
 Challenges & Boxes Writeups are password protected with the corresponding flag or ```root``` flag.
 
 ### * Machines
-|##No|#System|#Machine Name|#Ip|#Writer|#Writeup Don|#Points|
+|##No|#System|#Machine Name|#Ip|#Writer|#Writeup Download|#Points|
 |:------:|:------:|:------:|:------:|:------:|:------:|:------:|
 |1|Unknown|Fortune|10.10.10.127|Ihsan Sencan|[Fortune Writeup](#)|+50|
 |2|Windows|Arkham|10.10.10.130|Ihsan Sencan|[Arkham Writeup](#)|+30|
