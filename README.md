@@ -29,24 +29,76 @@ Challenges & Boxes Writeups are password protected with the corresponding flag o
 ------------
 
 #### * Challenges
-  * [Crypto](https://github.com/ihsansencan/HackTheBox/tree/master/Challenges/Crypto)
-    * [August](https://github.com/ihsansencan/HackTheBox/raw/master/Challenges/Crypto/August_IhsanSencan.pdf)
-    * [Call](https://github.com/ihsansencan/HackTheBox/raw/master/Challenges/Crypto/Call_IhsanSencan.pdf)
-    * [Decode Me!!](https://github.com/ihsansencan/HackTheBox/raw/master/Challenges/Crypto/Decode_Me_IhsanSencan.pdf)
-  * [Forensics](https://github.com/ihsansencan/HackTheBox/tree/master/Challenges/Forensics)
-    * ....
-  * [Misc](https://github.com/ihsansencan/HackTheBox/tree/master/Challenges/Misc)
-    * ....
-  * [Mobile](https://github.com/ihsansencan/HackTheBox/tree/master/Challenges/Mobile)
-    * [Cryptohorrific](https://github.com/ihsansencan/HackTheBox/raw/master/Challenges/Mobile/Cryptohorrific_IhsanSencan.pdf)
-  * [OSINT](https://github.com/ihsansencan/HackTheBox/tree/master/Challenges/OSINT)
-    * ....
-  * [Pwn](https://github.com/ihsansencan/HackTheBox/tree/master/Challenges/Pwn)
-    * ....
-  * [Reversing](https://github.com/ihsansencan/HackTheBox/tree/master/Challenges/Reversing)
-    * ....
-  * [Stego](https://github.com/ihsansencan/HackTheBox/tree/master/Challenges/Stego)
-    * ....
-  * [Web](https://github.com/ihsansencan/HackTheBox/tree/master/Challenges/Web)
-    * ....
+
+<details><summary><i>Crypto Challenges</i></summary>
+<ul> 
+<li> <a href="https://github.com/ihsansencan/HackTheBox/raw/master/Challenges/Crypto/August_IhsanSencan.pdf">August</a></li> 
+<li> <a href="https://github.com/ihsansencan/HackTheBox/raw/master/Challenges/Crypto/Call_IhsanSencan.pdf">Call</a></li> 
+<li> <a href="https://github.com/ihsansencan/HackTheBox/raw/master/Challenges/Crypto/Decode_Me_IhsanSencan.pdf">Decode Me!!</a></li> 
+</ul> 
+</details>
+ 
+<details><summary><i>Forensics Challenges</i></summary>
+<ul> 
+<li> <a href="#">.....</a></li> 
+</li> 
+</ul> 
+</details>
+ 
+<details><summary><i>Misc Challenges</i></summary>
+<ul> 
+<li> <a href="#">.....</a></li> 
+</li> 
+</ul> 
+</details>
+ 
+<details><summary><i>Mobile Challenges</i></summary>
+<ul> 
+<li> <a href="#">.....</a></li> 
+</li> 
+</ul> 
+</details>
+ 
+<details><summary><i>Mobile Challenges</i></summary>
+<ul> 
+<li> <a href="https://github.com/ihsansencan/HackTheBox/raw/master/Challenges/Mobile/Cryptohorrific_IhsanSencan.pdf">Cryptohorrific</a></li> 
+</li> 
+</ul> 
+</details>
+
+<details><summary><i>OSINT Challenges</i></summary>
+<ul> 
+<li> <a href="#">.....</a></li> 
+</li> 
+</ul> 
+</details>
+
+<details><summary><i>Pwn Challenges</i></summary>
+<ul> 
+<li> <a href="#">.....</a></li> 
+</li> 
+</ul> 
+</details>
+
+<details><summary><i>Reversing Challenges</i></summary>
+<ul> 
+<li> <a href="#">.....</a></li> 
+</li> 
+</ul> 
+</details>
+
+<details><summary><i>Stego Challenges</i></summary>
+<ul> 
+<li> <a href="#">.....</a></li> 
+</li> 
+</ul> 
+</details>
+
+<details><summary><i>Web Challenges</i></summary>
+<ul> 
+<li> <a href="#">.....</a></li> 
+</li> 
+</ul> 
+</details>
+
 ------------
