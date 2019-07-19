@@ -54,13 +54,6 @@ Challenges & Boxes Writeups are password protected with the corresponding flag o
  
 <details><summary><i>Mobile Challenges</i></summary>
 <ul> 
-<li> <a href="#">.....</a></li> 
-</li> 
-</ul> 
-</details>
- 
-<details><summary><i>Mobile Challenges</i></summary>
-<ul> 
 <li> <a href="https://github.com/ihsansencan/HackTheBox/raw/master/Challenges/Mobile/Cryptohorrific_IhsanSencan.pdf">Cryptohorrific</a></li> 
 </li> 
 </ul> 
