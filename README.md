@@ -1,11 +1,10 @@
 # Hack The Box Writeup
 
-
 Challenges & Boxes Writeups are password protected with the corresponding flag or ```root``` flag.
 
 #### * [Aktif Machines](#)
-|No|System|Machine Name|Ip|Writeup|
-| ------ | ------ | ------ | ------ | ------ |
+|  #No  |  #System  |  #Machine Name  |  #Ip  |  #Writeup  |
+|  ------------  |  ------------  |  ------------  |  ------------ |   ------------  |
 |1|Unknown|Fortune|10.10.10.127|[Fortune Writeup](#)|
 |2|Windows|Arkham|10.10.10.130|[Arkham Writeup](#)|
 |3|Windows|Helpline|10.10.10.132|[Helpline Writeup](#)|
@@ -27,11 +26,8 @@ Challenges & Boxes Writeups are password protected with the corresponding flag o
 |19|Linux|Craft|10.10.10.110|[Craft Writeup](#)|
 |20|Windows|RE|10.10.10.144|[RE Writeup](#)|
 
-#### * [Retired Machines](#)
-|No|System|Machine Name|Ip|Writeup|
-| ------ | ------ | ------ | ------ | ------ |
-|1|-|-|-|[#](#)|
 ------------
+
 #### * Challenges
   * [Crypto](https://github.com/ihsansencan/HackTheBox/tree/master/Challenges/Crypto)
     * [August](https://github.com/ihsansencan/HackTheBox/raw/master/Challenges/Crypto/August_IhsanSencan.pdf)
