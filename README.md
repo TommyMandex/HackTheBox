@@ -28,7 +28,7 @@ Challenges & Boxes Writeups are password protected with the corresponding flag o
 
 ------------
 
-#### * Challenges
+### * Challenges
 
 <details><summary><i>Crypto Challenges</i></summary>
 <ul> 
