@@ -95,3 +95,6 @@ Challenges & Boxes Writeups are password protected with the corresponding flag o
 </details>
 
 ------------
+<div class="footer">
+<b>&copy; 2019 Ihsan Sencan</b>
+</div>
