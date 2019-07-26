@@ -32,9 +32,9 @@ Challenges & Boxes Writeups are password protected with the corresponding flag o
 
 <details><summary><i>Crypto Challenges</i></summary>
 <ul> 
-<li> <a href="https://github.com/ihsansencan/HackTheBox/raw/master/Challenges/Crypto/August_IhsanSencan.pdf">August</a></li> 
-<li> <a href="https://github.com/ihsansencan/HackTheBox/raw/master/Challenges/Crypto/Call_IhsanSencan.pdf">Call</a></li> 
-<li> <a href="https://github.com/ihsansencan/HackTheBox/raw/master/Challenges/Crypto/Decode_Me_IhsanSencan.pdf">Decode Me!!</a></li> 
+<li> <a href="https://github.com/ihsansencan/HackTheBox/blob/master/Challenges/Crypto/August_IhsanSencan.pdf">August</a></li> 
+<li> <a href="https://github.com/ihsansencan/HackTheBox/blob/master/Challenges/Crypto/Call_IhsanSencan.pdf">Call</a></li> 
+<li> <a href="https://github.com/ihsansencan/HackTheBox/blob/master/Challenges/Crypto/Decode_Me_IhsanSencan.pdf">Decode Me!!</a></li> 
 </ul> 
 </details>
  
@@ -54,14 +54,14 @@ Challenges & Boxes Writeups are password protected with the corresponding flag o
  
 <details><summary><i>Mobile Challenges</i></summary>
 <ul> 
-<li> <a href="https://github.com/ihsansencan/HackTheBox/raw/master/Challenges/Mobile/Cryptohorrific_IhsanSencan.pdf">Cryptohorrific</a></li> 
+<li> <a href="https://github.com/ihsansencan/HackTheBox/blob/master/Challenges/Mobile/Cryptohorrific_IhsanSencan.pdf">Cryptohorrific</a></li> 
 </li> 
 </ul> 
 </details>
 
 <details><summary><i>OSINT Challenges</i></summary>
 <ul> 
-<li> <a href="#">.....</a></li> 
+<li> <a href="https://github.com/ihsansencan/HackTheBox/blob/master/Challenges/OSINT/Easy_Phish_IhsanSencan.pdf">Easy Phish</a></li> 
 </li> 
 </ul> 
 </details>
