@@ -40,7 +40,8 @@ Challenges & Boxes Writeups are password protected with the corresponding flag o
  
 <details><summary><i>Forensics Challenges</i></summary>
 <ul> 
-<li> <a href="https://github.com/ihsansencan/HackTheBox/blob/master/Challenges/Forensics/DSYM_IhsanSencan.pdf">DSYM</a></li> 
+<li> <a href="https://github.com/ihsansencan/HackTheBox/blob/master/Challenges/Forensics/MarketDump_IhsanSencan.pdf">MarketDump</a></li> 
+ <li> <a href="https://github.com/ihsansencan/HackTheBox/blob/master/Challenges/Forensics/Took_the_Byte_IhsanSencan.pdf">Took the Byte</a></li> 
 </li> 
 </ul> 
 </details>
@@ -75,7 +76,7 @@ Challenges & Boxes Writeups are password protected with the corresponding flag o
 
 <details><summary><i>Reversing Challenges</i></summary>
 <ul> 
-<li> <a href="#">.....</a></li> 
+<li> <a href="https://github.com/ihsansencan/HackTheBox/blob/master/Challenges/Reversing/DSYM_IhsanSencan.pdf">DSYM</a></li> 
 </li> 
 </ul> 
 </details>
