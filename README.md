@@ -40,7 +40,7 @@ Challenges & Boxes Writeups are password protected with the corresponding flag o
  
 <details><summary><i>Forensics Challenges</i></summary>
 <ul> 
-<li> <a href="#">.....</a></li> 
+<li> <a href="https://github.com/ihsansencan/HackTheBox/blob/master/Challenges/Forensics/DSYM_IhsanSencan.pdf">DSYM</a></li> 
 </li> 
 </ul> 
 </details>
